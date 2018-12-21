@@ -1,6 +1,6 @@
 ## Summary
 
-this project is a java project where you can dump grails jars in the lib folder and run
+This project is a java 9 project where you can dump grails jars in the lib folder and run
 `gradlew java9c`. It will spit out the split packages that are in multiple jars. When using modules in Java 9 +, this will throw
 an error in compilation if using module-path.
 
