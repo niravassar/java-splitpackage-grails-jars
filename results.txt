@@ -1,0 +1,5 @@
+:compileJava
+:processResources NO-SOURCE
+:classes
+:java9c_main FAILED
+2 actionable tasks: 2 executed
